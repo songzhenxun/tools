@@ -7,7 +7,7 @@
 ```
 git clone https://github.com/songzhenxun/tools.git
 
-cd tools
+cd tools/videos
 
 # The folder named "videos" is the path of videos
 
